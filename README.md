@@ -49,6 +49,7 @@ def get_all_objects_low(s3, bucket_name):
 - apply完了後にoutputされるbase_urlを控えておく
 
 ```bash
+terraform init
 terraform apply
 ```
 
